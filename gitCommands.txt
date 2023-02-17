@@ -13,3 +13,14 @@ local:
 git show <ID of the commit>
 
 6 - git reset --hard <ID of the commit>
+==========================================
+
+With GitHub:
+
+1 - git clone <URL> : to copy the remote repo
+
+2 - add / commit
+
+3 - git push : to upload the changes
+
+--- If we want to download the changes : git pull
