@@ -13,4 +13,3 @@ local:
 git show <ID of the commit>
 
 6 - git reset --hard <ID of the commit>
-============================================
